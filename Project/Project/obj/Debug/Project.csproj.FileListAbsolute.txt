@@ -1,0 +1,17 @@
+C:\Users\Darina\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Darina\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\Darina\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\Darina\source\repos\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Darina\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Darina\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Darina\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Darina\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\Darina\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\Darina\source\repos\Project\Project\obj\Debug\Project.FormScene.resources
+C:\Users\Darina\source\repos\Project\Project\obj\Debug\Project.Shape_Creator.resources
+C:\Users\Darina\source\repos\Project\Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Darina\source\repos\Project\Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Darina\source\repos\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Darina\source\repos\Project\Project\bin\Debug\LibraryShapes.dll
+C:\Users\Darina\source\repos\Project\Project\bin\Debug\LibraryShapes.pdb
+C:\Users\Darina\source\repos\Project\Project\obj\Debug\Project.Shape_Editor.resources

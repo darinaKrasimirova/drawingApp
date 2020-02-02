@@ -1,0 +1,6 @@
+C:\Users\Darina\source\repos\Project\LibraryShapes\bin\Debug\LibraryShapes.dll
+C:\Users\Darina\source\repos\Project\LibraryShapes\bin\Debug\LibraryShapes.pdb
+C:\Users\Darina\source\repos\Project\LibraryShapes\obj\Debug\LibraryShapes.csprojAssemblyReference.cache
+C:\Users\Darina\source\repos\Project\LibraryShapes\obj\Debug\LibraryShapes.csproj.CoreCompileInputs.cache
+C:\Users\Darina\source\repos\Project\LibraryShapes\obj\Debug\LibraryShapes.dll
+C:\Users\Darina\source\repos\Project\LibraryShapes\obj\Debug\LibraryShapes.pdb
